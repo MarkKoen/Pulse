@@ -1,0 +1,23 @@
+@media(max-width: 1200px){
+
+}
+@media(max-width: 992px){
+    
+    .header{
+        padding: 0 20px 0 20px;
+    }
+    .promo__wrapper{
+        padding: 0 20px 0 20px;
+    }
+    .advantages{
+        padding: 0 20px 0 20px;
+        .advantages__header{
+            
+            font-size: 27px;
+        }
+        .advantages__item{
+            max-width: 230px;
+        }
+        
+    }
+}
